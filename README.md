@@ -54,9 +54,9 @@ To explore the code in this repository:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourGitHubUsername/NUJava.git](https://github.com/YourGitHubUsername/NUJava.git)
+    git clone [https://github.com/whiteskyyyy/NUJava.git](https://github.com/YourGitHubUsername/NUJava.git)
     ```
-    (Replace `YourGitHubUsername` with your actual GitHub username)
+==
 2.  **Navigate to a specific activity folder:**
     ```bash
     cd NUJava/Activity_GUI-label,\ TextFields,\ and\ Button/
